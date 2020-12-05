@@ -1,2 +1,3 @@
-# prelim
-<img align="right" width="100" height="100" src="https://github.com/cricel/prelim/blob/master/fun.png">
+<p align="center">
+  <img width="500" height="500" src="https://github.com/cricel/prelim/blob/master/fun.png">
+</p>
